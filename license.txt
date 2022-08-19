@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mining Quarry
+* source:	https://sketchfab.com/3d-models/mining-quarry-1c86188613284bf8ae3f9f3f85613769
+* author:	3Dnovator (https://sketchfab.com/cdc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mining Quarry" (https://sketchfab.com/3d-models/mining-quarry-1c86188613284bf8ae3f9f3f85613769) by 3Dnovator (https://sketchfab.com/cdc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
